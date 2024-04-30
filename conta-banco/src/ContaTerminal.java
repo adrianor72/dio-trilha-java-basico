@@ -5,7 +5,6 @@ public class ContaTerminal {
         String nomeCliente;
         String agencia;
         int conta = 1021;
-
         Double saldo;
 
         Scanner scanner = new Scanner(System.in);
